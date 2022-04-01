@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div id='footer' align="center"> <img src= "https://img.shields.io/github/followers/smebellis?style=social" /div>
+<div id="Badges"
+     <a href="https://www.linkedin.com/in/ryan-ellis-usn/">
+     <img src= "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /div>
+<img src= "https://img.shields.io/github/followers/smebellis?style=social" /div>
