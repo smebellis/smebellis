@@ -18,4 +18,25 @@
 
 ---
 
-### :man_technologist: About Me:
+### :man_technologist: About Me : I am a creative thinker that strives in solving complex problems in high-pressure environments aspiring to become a Software Engineer
+
+- :telescope: I am working as a Cyber Systems Engineer developing CI/CD pipelines and securing AWS cloud
+
+- :seedling: Pursing a Masters in AI/ML at U of M <img src="https://media.giphy.com/media/KPWt1Ed96mYcm8tskf/giphy.gif" width="25">
+
+- :zap: In my free time, I coach football and watch my kids play sports
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-ellis-usn/)
+
+---
+
+###: hammer_and_wrench: Languages and Tools :
+
+<div>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bitbucket/bitbucket-original.svg" width="40" heigth="40"/>&nbsp;
+     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="40 height="40"/>&nbsp
+     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/grafana/grafana-original.svg" width="40 height="40"/>&nbsp
+     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jenkins/jenkins-original.svg" width="40 height="40"/>&nbsp
+     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" width="40 height="40"/>&nbsp
+
+</div>
