@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 <div id="Badges"
      <a href="https://www.linkedin.com/in/ryan-ellis-usn/">
      <img src= "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /div>
-<img src= "https://img.shields.io/github/followers/smebellis?style=social" /div>
+<div id="count"
+     <img src= "https://img.shields.io/github/followers/smebellis?style=social" /div>
