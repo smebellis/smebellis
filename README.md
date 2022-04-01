@@ -16,7 +16,7 @@
 ---
      
 👨‍💻: About Me :
-     I am a aspiring Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+     I am a creative thinker that strives in solving complex problems in high-pressure environments looking to become a Software Engineer.
 
   
      
