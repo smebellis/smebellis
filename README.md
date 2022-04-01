@@ -22,7 +22,7 @@
 
 - :telescope: I am working as a Cyber Systems Engineer developing CI/CD pipelines and securing AWS cloud
 
-- :seedling: Pursing a Masters in AI/ML at U of M <img src="https://media.giphy.com/media/KPWt1Ed96mYcm8tskf/giphy.gif" width="25">
+- :seedling: Currently pursuing a Masters in AI/ML at the University of Michigan <img src="https://media.giphy.com/media/KPWt1Ed96mYcm8tskf/giphy.gif" width="25">
 
 - :zap: In my free time, I coach football and watch my kids play sports
 
@@ -30,7 +30,7 @@
 
 ---
 
-###: 🛠️: Languages and Tools :
+### : 🛠️: Languages and Tools :
 
 <div>
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bitbucket/bitbucket-original.svg" width="40" heigth="40"/>&nbsp;
