@@ -2,13 +2,14 @@
      <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
 </div>
 
-<div id="Badges">
+<div id="Badges" align="center">
+     <a href="https://www.linkedin.com/in/ryan-ellis-usn/">
      <img src= "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
 </div>
      
      
      
-     <a href="https://www.linkedin.com/in/ryan-ellis-usn/">
+     
      
 <div id="count"
      <img src= "https://img.shields.io/github/followers/smebellis?style=social" /div>
