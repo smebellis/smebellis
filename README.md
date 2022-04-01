@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<html https://img.shields.io/github/followers/smebellis?style=social /html>
+<div id='footer' align="center"> <img src= "https://img.shields.io/github/followers/smebellis?style=social" /div>
