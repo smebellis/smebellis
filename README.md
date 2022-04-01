@@ -1,3 +1,14 @@
+<div id="Header" align="center">
+     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+     
+     
+     
+     <a href="https://www.linkedin.com/in/ryan-ellis-usn/">
+     <img src= "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /div>
+<div id="count"
+     <img src= "https://img.shields.io/github/followers/smebellis?style=social" /div>
+
 ### Hi there 👋
 
 <!--
@@ -14,8 +25,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="Badges"
-     <a href="https://www.linkedin.com/in/ryan-ellis-usn/">
-     <img src= "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /div>
-<div id="count"
-     <img src= "https://img.shields.io/github/followers/smebellis?style=social" /div>
