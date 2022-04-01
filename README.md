@@ -30,9 +30,10 @@
 
 ---
 
-### 🛠️ Languages and Tools :
+### :hammer_and_wrench Languages and Tools :
 
 <div>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" width="40" heigth="40"/>&nbsp;
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bitbucket/bitbucket-original.svg" width="40" heigth="40"/>&nbsp;
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" width="40 height="40"/>&nbsp
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/grafana/grafana-original.svg" width="40 height="40"/>&nbsp
@@ -40,3 +41,7 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" width="40 height="40"/>&nbsp
 
 </div>
+
+---
+
+### :fire My Stats : [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smebellis&theme=dark&background=000000)](https://git.io/streak-stats)
