@@ -26,7 +26,7 @@
 
 - :zap: In my free time, I coach football and watch my kids play sports
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-ellis-usn/)
+- 📫How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-ellis-usn/)
 
 ---
 
