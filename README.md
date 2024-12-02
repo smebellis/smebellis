@@ -20,7 +20,7 @@
 
 ### :man_technologist: About Me : I am a creative thinker that strives in solving complex problems in high-pressure environments aspiring to become a Software Engineer
 
-- :telescope: I am working as a Cyber Systems Engineer developing CI/CD pipelines and securing AWS cloud
+- :telescope: I am working as a Artificial Intelligence Software Engineer
 
 - :seedling: Currently pursuing a Masters in AI/ML at the University of Michigan <img src="https://media.giphy.com/media/KPWt1Ed96mYcm8tskf/giphy.gif" width="25">
 
