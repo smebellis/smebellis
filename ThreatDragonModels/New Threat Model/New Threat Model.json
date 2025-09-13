@@ -1,0 +1,16 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "New Threat Model",
+    "owner": "Ryan Ellis",
+    "description": "A cloud-hosted photo-sharing service where registered users upload photos over HTTPS and later retrieve them. ",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Ryan Ellis",
+    "threatTop": 0
+  }
+}
